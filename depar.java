@@ -7,4 +7,4 @@ public class depar {
     System.out.println("dpartment"+dapr);gg
     input.close();
   }
-}yy
+}yyyy
