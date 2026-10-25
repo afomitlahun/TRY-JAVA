@@ -6,7 +6,7 @@ System.out.println("Sum from 35 to 49 is " + sum(35, 49));
 }
 public static int  sum(int a, int b){
 int result = 0;
-for (int i = a; i <= b; i++)
+for (int i = a; i <= b; i++)hhnn
 result += i;
 return result;
 } 
